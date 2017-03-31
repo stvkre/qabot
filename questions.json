@@ -1,0 +1,17 @@
+{ "questions": [{
+    "author": "Michael Di Santa",
+    "question": "What is a database?",
+    "additional-notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent non mi vitae mauris mattis suscipit."
+
+  }, {
+    "author": "Devin Booker",
+    "question": "What does it take to be great like Kobe?",
+    "additional-notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent non mi vitae mauris mattis suscipit."
+
+  }, {
+    "author": "Emma Stone",
+    "question": "Why didn't I win an Oscar?",
+    "additional-notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent non mi vitae mauris mattis suscipit."
+
+  }]
+}
