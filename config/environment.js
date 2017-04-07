@@ -22,6 +22,7 @@ module.exports = function(environment) {
       databaseURL: "https://q-and-a-6d47c.firebaseio.com",
       projectId: "q-and-a-6d47c",
       storageBucket: "q-and-a-6d47c.appspot.com",
+      messagingSenderId: "665793049417"
     },
 
     APP: {
