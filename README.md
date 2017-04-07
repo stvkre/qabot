@@ -1,7 +1,6 @@
 # qabot
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+An Ember application that hosts questions of the user's choosing and gives answers and reviews
 
 ## Prerequisites
 
@@ -41,7 +40,7 @@ Make use of the many generators for code, try `ember help generate` for more det
 
 ### Deploying
 
-Specify what it takes to deploy your app.
+With the help of heroku, an application hosting platform.
 
 ## Further Reading / Useful Links
 
@@ -50,3 +49,7 @@ Specify what it takes to deploy your app.
 * Development Browser Extensions
   * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
   * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
+
+### License
+
+https://github.com/stvkre/qabot/blob/master/LICENSE

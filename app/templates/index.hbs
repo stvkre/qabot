@@ -5,7 +5,8 @@
 
 {{new-question saveQuestion2 = "saveQuestion3"}}
 
+<!-- displaying the model on the browser -->
+
 {{#each model as |question|}}
   <br>{{question.author}}<br>{{question.question}}<br>{{question.additional_notes}}<br>
-<!-- {{question-tile question=question}} -->
 {{/each}}
