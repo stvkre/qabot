@@ -3,7 +3,7 @@ import Ember from 'ember';
 export function questionsPopularity(params) {
   var questions = params[0];
   if (questions.get('reviews').get('length') >= 5) {
-    return Ember.String.htmlSafe('<span class="glyphicon glyphicon-fire"></span>')
+    return Ember.String.htmlSafe('<span class="glyphicon glyphicon-fire"></span>');
   }
 
 }
