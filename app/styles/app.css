@@ -9,3 +9,8 @@ footer {
   padding-bottom: 20px;
 
 }
+
+.jumbotron {
+  background-image: url('../img/snow.jpg');
+  background-size: cover;
+}
